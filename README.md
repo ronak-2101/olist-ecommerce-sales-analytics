@@ -316,9 +316,7 @@ The dashboard provides analysis across areas including:
 
 # 📷 Dashboard Preview
 
-Add your dashboard screenshot to the repository and display it here:
-
-![Olist E-Commerce Dashboard](Dashboard_Screenshot/Olist_Dashboard.png)
+![Olist E-Commerce Dashboard](Dashboard_Screenshot_Olist_Dashboard.png)
 
 ---
 

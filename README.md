@@ -330,6 +330,16 @@ The demo shows the interactive dashboard, filters, charts, and key business metr
 
 ---
 
+## 📥 Download the Excel Dashboard
+
+The complete Excel workbook contains the Power Query transformations, Power Pivot data model, table relationships, Pivot Tables, Pivot Charts, and interactive dashboard.
+
+👉 **[Download the Olist E-Commerce Dashboard](https://drive.google.com/file/d/1v7HY9B_YjtZ7bIFzH0Er2pE9FzSu5t_I/view?usp=sharing)**
+
+> Note: The Excel workbook is hosted on Google Drive because its file size exceeds GitHub's web upload limit.
+
+---
+
 # 📈 Key Business Areas Analyzed
 
 | Area      | Analysis                                           |
@@ -376,9 +386,6 @@ olist-ecommerce-sales-analytics/
 │
 ├── SQL/
 │   └── Olist_Business_Queries.sql
-│
-├── Excel_Dashboard/
-│   └── Olist_Ecommerce_Dashboard.xlsx
 │
 ├── Dashboard_Screenshot/
 │   └── Olist_Dashboard.png
